@@ -1,6 +1,6 @@
 ## Tasca1
 ### Descripción
-_Creacion de varios archivos con diferentes extensiones tales como:_
+*Creación de varios archivos con diferentes extensiones tales como* :
 * RTF
 * XML
 * HTML
